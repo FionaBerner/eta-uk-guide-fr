@@ -50,5 +50,5 @@ Complétez le paiement en ligne pour finaliser votre demande.
 https://etauk.fr/
 
 ### À lire aussi :
-* [Prix de l’ETA UK](prix-deta-uk.md)
+* [Prix de l’ETA UK](prix-de-leta-uk.md)
 * [ETA UK vs AVE UK: quelles différences?](eta-uk-et-ave-uk-est-ce-le-meme-document.md)
