@@ -1,41 +1,41 @@
-# ETA UK : Le nouveau permis de voyage en ligne pour le Royaume-Uni
+# ETA UK : le nouveau permis de voyage en ligne pour le Royaume-Uni
 
-L’ETA UK (Electronic Travel Authorization) est le nouveau système d’autorisation de voyage mis en place pour entrer au Royaume-Uni. Cette autorisation devient obligatoire pour de nombreux voyageurs avant leur départ.
+L’ETA UK (Electronic Travel Authorization) est une autorisation de voyage électronique désormais requise pour entrer au Royaume-Uni. Cette démarche en ligne est obligatoire pour plusieurs voyageurs avant leur départ.
 
-## Qu’est-ce que l’ETA UK ?
+## Qu’est-ce que l’ETA UK?
 
-L’ETA (Electronic Travel Authorization) est un formulaire en ligne que les voyageurs doivent remplir avant de se rendre au Royaume-Uni. Il permet aux autorités britanniques de vérifier les informations des passagers avant leur arrivée.
+L’ETA UK est un formulaire à remplir en ligne avant de voyager vers le Royaume-Uni. Il permet aux autorités britanniques de vérifier certaines informations avant votre arrivée.
 
-👉 Guide complet et officiel :
-https://www.checkmigcolombia.us/
+👉 Consultez un guide complet :
+https://etauk.fr/
 
-## Qui doit demander l’ETA UK ?
+## Qui doit faire une demande d’ETA UK?
 
-* Voyageurs exemptés de visa
-* Touristes
-* Voyageurs d’affaires
-* Transit via le Royaume-Uni
+* Les voyageurs exemptés de visa
+* Les touristes
+* Les voyageurs d’affaires
+* Les personnes en transit
 
-## Pourquoi l’ETA est-il important ?
+## Pourquoi l’ETA est-elle importante?
 
-Sans ETA approuvé, vous pourriez :
+Sans ETA approuvée, vous pourriez :
 
 * Être refusé à l’embarquement
-* Subir des retards à l’aéroport
-* Ne pas pouvoir entrer au Royaume-Uni
+* Subir des délais à l’aéroport
+* Ne pas être autorisé à entrer au Royaume-Uni
 
-## Guides détaillés
+### Guides utiles
 
 * [Comment remplir l’ETA UK](comment-remplir-leta-pour-le-royaume-uni.md)
 * [Prix de l’ETA UK](prix-deta-uk.md)
-* [ETA UK vs AVE UK](eta-uk-et-ave-uk-est-ce-le-meme-document.md)
+* [ETA UK vs AVE UK: quelles différences?](eta-uk-et-ave-uk-est-ce-le-meme-document.md)
 
 ## Conseils importants
 
-* Faites votre demande au moins 72 heures avant le départ
-* Vérifiez toutes les informations avant soumission
-* Utilisez uniquement des sources fiables
+* Faites votre demande au moins 72 heures avant votre départ
+* Vérifiez attentivement vos informations
+* Utilisez uniquement des sites fiables
 
 ---
 
-Ce dépôt fournit des informations utiles pour les voyageurs souhaitant comprendre et compléter leur demande ETA UK rapidement et sans erreur.
+Ce dépôt fournit des informations utiles pour comprendre et compléter votre demande d’ETA UK facilement.
