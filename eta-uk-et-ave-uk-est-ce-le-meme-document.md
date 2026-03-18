@@ -31,8 +31,10 @@ Cependant, il est tout à fait correct de parler d’**autorisation de voyage é
 * Ce sont simplement deux appellations selon la langue
 * Le fonctionnement reste identique : une demande en ligne avant le voyage
 
-## Conclusion
+## En bref
 
 L’ETA UK et l’AVE ne sont pas des documents différents, mais bien deux façons de nommer une même autorisation de voyage électronique.
 
-
+### À lire aussi :
+* [Comment remplir l’ETA UK](comment-remplir-leta-pour-le-royaume-uni.md)
+* [Prix de l’ETA UK](prix-deta-uk.md)
