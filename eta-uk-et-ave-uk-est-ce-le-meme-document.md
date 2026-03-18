@@ -37,4 +37,4 @@ L’ETA UK et l’AVE ne sont pas des documents différents, mais bien deux faç
 
 ### À lire aussi :
 * [Comment remplir l’ETA UK](comment-remplir-leta-pour-le-royaume-uni.md)
-* [Prix de l’ETA UK](prix-deta-uk.md)
+* [Prix de l’ETA UK](prix-de-leta-uk.md)
