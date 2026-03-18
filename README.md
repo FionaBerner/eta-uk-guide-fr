@@ -27,7 +27,7 @@ Sans ETA approuvée, vous pourriez :
 ### Guides utiles
 
 * [Comment remplir l’ETA UK](comment-remplir-leta-pour-le-royaume-uni.md)
-* [Prix de l’ETA UK](prix-deta-uk.md)
+* [Prix de l’ETA UK](prix-de-leta-uk.md)
 * [ETA UK vs AVE UK: quelles différences?](eta-uk-et-ave-uk-est-ce-le-meme-document.md)
 
 ## Conseils importants
