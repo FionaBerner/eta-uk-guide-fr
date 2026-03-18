@@ -1,47 +1,50 @@
-# Comment remplir l’ETA pour le Royaume-Uni (Guide étape par étape)
+# Comment remplir l’ETA pour le Royaume-Uni (guide étape par étape)
 
-Remplir l’[ETA UK](https://etauk.fr/) est une étape essentielle avant de voyager au Royaume-Uni. Voici un guide simple et rapide.
+Remplir l’ETA UK est une étape essentielle avant de voyager au Royaume-Uni. Voici comment procéder simplement.
 
 ## Étape 1 : Accéder au formulaire
 
-Accédez au formulaire en ligne sur le site web :
-https://etauk.fr/
-Veuillez savoir que le site web n'est pas lié au site gouvernemental du Royaume-Uni.
+Rendez-vous sur le [formulaire ETA UK en ligne](https://etauk.fr/). Sachez que le site etauk.fr est un site privé qui facture des frais supplémentaires pour un service client 24h/24 et 7j/7.
 
-## Étape 2 : Informations personnelles
+## Étape 2 : Entrer vos renseignements personnels
 
 Vous devrez fournir :
 
-* Image de votre passeport
-* Une selfie récente
-* Votre adresse
-* Le numéro de votre téléphone
-* Votre profession
+* Votre nom complet
+* Votre date de naissance
+* Votre nationalité
+* Votre numéro de passeport
 
-## Étape 3 : Questions de sécurité
+## Étape 3 : Ajouter les informations de voyage
 
-Répondez honnêtement aux questions concernant :
+* Date d’arrivée
+* Motif du voyage
+* Durée du séjour
 
-* Antécédents judiciaires
-* Sécurité
-* Immigration
+## Étape 4 : Répondre aux questions de sécurité
 
-## Étape 4 : Vérification
+Répondez honnêtement aux questions liées à :
+
+* Vos antécédents
+* La sécurité
+* L’immigration
+
+## Étape 5 : Vérifier vos informations
 
 Avant de soumettre :
 
-* Vérifiez toutes les informations
-* Assurez-vous qu’elles correspondent à votre passeport
+* Assurez-vous que tout est exact
+* Vérifiez que les données correspondent à votre passeport
 
-## Étape 5 : Paiement
+## Étape 6 : Effectuer le paiement
 
-Effectuez le paiement en ligne pour finaliser la demande.
+Complétez le paiement en ligne pour finaliser votre demande.
 
-## Conseils utiles
+## Conseils pratiques
 
-* Remplissez le formulaire au moins 72h avant le départ
-* Utilisez un email valide
+* Faites votre demande au moins 72 heures à l’avance
+* Utilisez une adresse courriel valide
 * Conservez une copie de votre confirmation
 
-👉 Pour plus d’informations :
-    https://etauk.fr/
+👉 Plus de détails ici :
+https://etauk.fr/
